@@ -10,12 +10,11 @@
 
 1. Вы понимаете, как писать в [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-1. У вас открыта оригинальная [книга на английском](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-en.pdf)
+1. У вас открыта оригинальная [книга на английском](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-en.pdf).
 
-1. Вы выбрали главу для редактирования как [файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали пустой файл главы chapterN.md и наполяете его содержимым из [PDF исходник с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf) 
+1. Вы выбрали главу для редактирования как [файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали пустой файл главы chapterN.md и наполяете его содержимым из [PDF исходник с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf).
 
 1. Наша задача - выпустить онлайн книгу, которая по своей вёрстке близка к оригинальному PDF, так что нам важны
-
  - *курсивы* в тексте
  - > цитаты и выделения
  - ``` вставки вроде этой ```
@@ -24,39 +23,39 @@
 
 ## Как работать прямо в GitHub (для непрограммистов)
 
-1. Открываем главу на редактирование (и да! меняем статус в Trello параллельно на "In Work")
+### Открываем главу на редактирование (и да! меняем статус в Trello параллельно на "In Work").
 
 ![открываем редактирование](/assets/images/howto-edit.png)
 
-2. Редактируем как Markdown текст
+### Редактируем как Markdown текст.
 
 ![редактируем](/assets/images/howto-markdown.png)
 
-3. Пишем комментарий и коммитим изменение в свою временную ветку
+### Пишем комментарий и коммитим изменение в свою временную ветку.
 
 ![коммитим](/assets/images/howto-commit.png)
 
-4. Создаём pull request, чтобы кто-то проверил и смержил изменения
+### Создаём pull request, чтобы кто-то проверил и смержил изменения
 
 ![коммитим](/assets/images/howto-pr.png)
 
-5. Ждём, пока кто-то поревьювает наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review")
+### Ждём, пока кто-то поревьювает наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review").
 
 ![делаем pr](/assets/images/howto-pr-waiting.png)
 
-6. Кто-то находит ваш pull request
+### Кто-то находит ваш pull request.
 
 ![находим pr](/assets/images/howto-see-pr.png)
 
-6. И запускает ревью
+### И запускает ревью.
 
 ![запускаем ревью](/assets/images/howto-pr-review.png)
 
-7. Принимает ваши изменения
+### Принимает ваши изменения.
 
 ![запускаем ревью](/assets/images/howto-pr-approve.png)
 
-8. Убеждаемся, что мы понимаем ошибки, если они есть
+### Убеждаемся, что мы понимаем ошибки, если они есть.
 
 ![смотрим на ошибки](/assets/images/howto-checks.png)
 
