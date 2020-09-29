@@ -36,6 +36,10 @@
 
 ![коммитим](/assets/images/howto-commit.png)
 
+### Дожидаемся сборки
+
+![ждём](/assets/images/howto-wait-build.png)
+
 ### Создаём pull request, чтобы кто-то проверил и склеил изменения
 
 ![коммитим](/assets/images/howto-pr.png)
