@@ -23,7 +23,43 @@
 
 ## Как работать прямо в GitHub (для непрограммистов)
 
-...
+1. Открываем главу на редактирование (и да! меняем статус в Trello параллельно на "In Work")
+
+![открываем редактирование](/assets/images/howto-edit.png)
+
+2. Редактируем как Markdown текст
+
+![редактируем](/assets/images/howto-markdown.png)
+
+3. Пишем комментарий и коммитим изменение в свою временную ветку
+
+![коммитим](/assets/images/howto-commit.png)
+
+4. Создаём pull request, чтобы кто-то проверил и смержил изменения
+
+![коммитим](/assets/images/howto-pr.png)
+
+5. Ждём, пока кто-то поревьювает наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review")
+
+![делаем pr](/assets/images/howto-pr-waiting.png)
+
+6. Кто-то находит ваш pull request
+
+![находим pr](/assets/images/howto-see-pr.png)
+
+6. И запускает ревью
+
+![запускаем ревью](/assets/images/howto-pr-review.png)
+
+7. Принимает ваши изменения
+
+![запускаем ревью](/assets/images/howto-pr-approve.png)
+
+8. Убеждаемся, что мы понимаем ошибки, если они есть
+
+![смотрим на ошибки](/assets/images/howto-checks.png)
+
+![понимаем проблему](/assets/images/howto-read-checks.png)
 
 ## Самое важное в Markdown
 
