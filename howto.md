@@ -15,11 +15,12 @@
 1. Вы выбрали главу для редактирования как [файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали пустой файл главы chapterN.md и наполяете его содержимым из [PDF исходник с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf).
 
 1. Наша задача - выпустить онлайн книгу, которая по своей вёрстке близка к оригинальному PDF, так что нам важны
- - *курсивы* в тексте
- - > цитаты и выделения
- - ``` вставки вроде этой ```
- - картинки, который вы добавляте в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images), беря их [с сайта less.works](https://less.works/resources/graphics/book-images.html)
- - всяческие ремарки, футноуты и хинты на полях - пишем их прямо в тексте, так как в Markdown нет таких фич.
+
+- *курсивы* в тексте
+- > цитаты и выделения
+- ``` вставки вроде этой ```
+- картинки, который вы добавляте в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images), беря их [с сайта less.works](https://less.works/resources/graphics/book-images.html)
+- всяческие ремарки, футноуты и хинты на полях - пишем их прямо в тексте, так как в Markdown нет таких фич.
 
 ## Как работать прямо в GitHub (для непрограммистов)
 
@@ -27,11 +28,11 @@
 
 ![открываем редактирование](/assets/images/howto-edit.png)
 
-### Редактируем как Markdown текст.
+### Редактируем как Markdown текст
 
 ![редактируем](/assets/images/howto-markdown.png)
 
-### Пишем комментарий и коммитим изменение в свою временную ветку.
+### Пишем комментарий и коммитим изменение в свою временную ветку
 
 ![коммитим](/assets/images/howto-commit.png)
 
@@ -39,23 +40,23 @@
 
 ![коммитим](/assets/images/howto-pr.png)
 
-### Ждём, пока кто-то поревьювает наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review").
+### Ждём, пока кто-то поревьювает наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review")
 
 ![делаем pr](/assets/images/howto-pr-waiting.png)
 
-### Кто-то находит ваш pull request.
+### Кто-то находит ваш pull request
 
 ![находим pr](/assets/images/howto-see-pr.png)
 
-### И запускает ревью.
+### И запускает ревью
 
 ![запускаем ревью](/assets/images/howto-pr-review.png)
 
-### Принимает ваши изменения.
+### Принимает ваши изменения
 
 ![запускаем ревью](/assets/images/howto-pr-approve.png)
 
-### Убеждаемся, что мы понимаем ошибки, если они есть.
+### Убеждаемся, что мы понимаем ошибки, если они есть
 
 ![смотрим на ошибки](/assets/images/howto-checks.png)
 
