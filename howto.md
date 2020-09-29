@@ -12,7 +12,7 @@
 
 1. У вас открыта оригинальная [книга на английском](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-en.pdf)
 
-1. Вы выбрали [главу для редактирования как файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали постой файл главы chapterN.md и наполяете его содержимым из [исходники с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf) 
+1. Вы выбрали главу для редактирования как [файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали пустой файл главы chapterN.md и наполяете его содержимым из [PDF исходник с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf) 
 
 1. Наша задача - выпустить онлайн книгу, которая по своей вёрстке близка к оригинальному PDF, так что нам важны
  - *курсивы* в тексте
