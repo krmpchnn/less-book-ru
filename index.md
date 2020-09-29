@@ -4,4 +4,6 @@
 
 ## [Глава 2](chapter2.md)
 
-## [Markdown Howto](Readme.md)
+---
+
+## [Howto для контрибьютеров](howto.md)
