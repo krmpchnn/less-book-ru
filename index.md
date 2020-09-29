@@ -1,6 +1,6 @@
-![понимаем проблему](/assets/images/checks.jpg)
-
 # Содержание
+
+![Книга](/assets/images/checks.jpg)
 
 ## [Глава 1](chapter1.md)
 
