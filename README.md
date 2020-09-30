@@ -41,11 +41,11 @@ https://krmpchnn.github.io/less-book-ru/ - это адрес, куда инкр�
 ```` вставки вроде этой ````
 ````
 
-картинки, который вы добавляете в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images), беря их [с сайта less.works](https://less.works/resources/graphics/book-images.html)
+иллюстрации, которые вы добавляете в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images), беря их [с сайта less.works](https://less.works/resources/graphics/book-images.html) и потом, вставляя их в код книги
 
 ````
-картинки вставлюятся так: 
-![название картинки](/assets/images/filename.png)
+иллюстрации вставлюятся так: 
+![название иллюстрации](/assets/images/filename.png)
 
 ````
 
