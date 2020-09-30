@@ -52,7 +52,7 @@ https://krmpchnn.github.io/less-book-ru/ - это адрес, куда инкр�
 
 ### Ждём, пока кто-то проверит  наши изменения (и да! меняем статус в Trello параллельно на "Ready for Review")
 
-![делаем pr](/assets/images/howto-pr-waiting.png)
+![делаем pr](/assets/images/howto-wait-build.png)
 
 ### Кто-то находит ваш pull request
 
