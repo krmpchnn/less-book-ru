@@ -1,4 +1,6 @@
-# Содержание
+# Large-Scale Scrum - неофициальный перевод книги
+
+![Книга](/assets/images/cover.jpg)
 
 ## [Глава 1](chapter1.md)
 
