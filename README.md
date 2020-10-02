@@ -20,6 +20,8 @@
 
 1. Вы выбрали главу для редактирования как [файл chapterN.md](https://github.com/krmpchnn/less-book-ru) или же создали пустой файл главы chapterN.md и наполняете его содержимым из [PDF исходник с некачественным переводом](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/assets/pdf/less-book-ru.pdf).
 
+1. Иллюстрации берутся [с сайта less.works](https://less.works/resources/graphics/book-images.html) и добавляются в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images).
+
 1. Наша задача - выпустить онлайн книгу, которая по своей вёрстке близка к оригинальному PDF, так что нам важны
 
 *курсивы* в тексте
@@ -42,8 +44,6 @@
 делаются так:
 ```markdown вставки вроде этой ```
 ```
-
-иллюстрации, которые вы добавляете в папку [assets/images](https://github.com/krmpchnn/less-book-ru/tree/gh-pages/assets/images), беря их [с сайта less.works](https://less.works/resources/graphics/book-images.html) и потом, вставляя их в код книги
 
 ```markdown
 иллюстрации вставлюятся так:
