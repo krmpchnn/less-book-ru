@@ -2,8 +2,7 @@
 
 ![Книга](/assets/images/cover.jpg)
 
-## [Вступительное слово
-Стивена Деннинга](foreword-denning.md)
+## [Вступительное слово Стивена Деннинга](foreword-denning.md)
 
 ## [Предисловие к этому изданию](foreword-russian.md)
 
