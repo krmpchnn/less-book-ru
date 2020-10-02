@@ -12,4 +12,4 @@
 
 ---
 
-## [Howto для контрибьютеров](README.md)
+## [Howto для контрибьютеров](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/README.md)
