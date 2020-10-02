@@ -7,6 +7,8 @@
 
 ## [Предисловие к этому изданию](foreword-russian.md)
 
+## [Предисловие](preface.md)
+
 ## [Глава 1](chapter1.md)
 
 ## [Глава 2](chapter2.md)
