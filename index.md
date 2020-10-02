@@ -2,8 +2,7 @@
 
 ![Книга](/assets/images/cover.jpg)
 
-## [Вступительное слово
-Стивена Деннинга](foreword-denning.md)
+## [Вступительное слово Стивена Деннинга](foreword-denning.md)
 
 ## [Предисловие к этому изданию](foreword-russian.md)
 
@@ -15,4 +14,4 @@
 
 ---
 
-## [Howto для контрибьютеров](README.md)
+## [Howto для контрибьютеров](https://github.com/krmpchnn/less-book-ru/blob/gh-pages/README.md)
