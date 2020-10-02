@@ -31,6 +31,6 @@
 
 ## Благодарности
 
-![Книга](/assets/images/acknowledgements.png)
+![acknowledgements](/assets/images/acknowledgements.png)
 
 
