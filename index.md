@@ -2,15 +2,17 @@
 
 ![Книга](/assets/images/cover.jpg)
 
+## [Предисловие к русскому изданию](foreword-russian.md)
+
 ## [Вступительное слово Стивена Деннинга](foreword-denning.md)
 
-## [Предисловие к этому изданию](foreword-russian.md)
+## [Предисловие авторов](preface.md)
 
-## [Предисловие](preface.md)
+## [Глава 1 - More with LeSS](chapter1.md)
 
-## [Глава 1](chapter1.md)
+## [Глава 2 - Введение в LeSS](chapter2.md)
 
-## [Глава 2](chapter2.md)
+## [Глава 3 - Внедрение](chapter3.md)
 
 ---
 
