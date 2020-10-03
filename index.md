@@ -2,11 +2,11 @@
 
 ![Книга](/assets/images/cover.jpg)
 
+## [Предисловие к русскому изданию](foreword-russian.md)
+
 ## [Вступительное слово Стивена Деннинга](foreword-denning.md)
 
-## [Предисловие к этому изданию](foreword-russian.md)
-
-## [Предисловие](preface.md)
+## [Предисловие авторов](preface.md)
 
 ## [Глава 1 - More with LeSS](chapter1.md)
 
