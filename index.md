@@ -8,9 +8,11 @@
 
 ## [Предисловие](preface.md)
 
-## [Глава 1](chapter1.md)
+## [Глава 1 - More with LeSS](chapter1.md)
 
-## [Глава 2](chapter2.md)
+## [Глава 2 - Введение в LeSS](chapter2.md)
+
+## [Глава 3 - Внедрение](chapter2.md)
 
 ---
 
