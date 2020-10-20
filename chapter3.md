@@ -18,6 +18,10 @@ LeSS Huge
 - Guide: One Requirement Area at a Time
 - Guide: Parallel Organizations
 
+![_](assets/images/chapter3-img0.png)
+
+_Менеджеры, обдумывающие улучшения, которы помогут помочь_
+
 ## Введение
 
 > Если ты не меняешь направление, то можешь оказаться там, куда направляешься.
