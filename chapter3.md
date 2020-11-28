@@ -1,10 +1,13 @@
 # Глава 3: Переход на LeSS
 
 ## Содержание
+
 [Введение](#введение)
+
 - [Однокомандный Скрам](#однокомандный-скрам)
 
 [Переход на LeSS](#переход-на-less)
+
 - [Руководство: Три Принципа Перехода на LeSS](#руководство-три-принципа-перехода-на-less)
 - Guide: Getting Started
 - Guide: Culture Follows Structure
@@ -14,6 +17,7 @@
 - Guide: Growing Your Adoption
 
 LeSS Huge
+
 - Guide: Evolutionary Incremental Adoption
 - Guide: One Requirement Area at a Time
 - Guide: Parallel Organizations
